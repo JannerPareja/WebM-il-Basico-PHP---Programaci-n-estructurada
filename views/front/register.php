@@ -7,7 +7,7 @@
 				
 				<fieldset>
 					<legend>Formulario de Registro</legend>
-						<form name="register" method="post" action="<?php echo $_SERVER['PHP_SELF']; ?>">
+						<form name="register" method="post" action="http://localhost/webmail/app/Http/Controllers/Controller.php">
 							<p>
 								<select name="genre" required>
 									<option value="hombre">Hombre</option>
