@@ -7,7 +7,7 @@
 				
 				<fieldset>
 					<legend>Formulario de Ingreso</legend>
-						<form name="login" method="post" action="Controller.php">
+						<form name="login" method="post" action="http://localhost/webmail/app/Http/Controllers/Controller.php">
 							<p>
 								<input type="email" name="correo_log" placeholder="Correo electronico.." required>
 							</p>
